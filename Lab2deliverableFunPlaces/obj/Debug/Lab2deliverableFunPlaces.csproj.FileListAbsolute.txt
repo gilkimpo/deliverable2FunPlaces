@@ -1,0 +1,7 @@
+C:\Users\gilki\source\repos\Lab2deliverableFunPlaces\Lab2deliverableFunPlaces\bin\Debug\Lab2deliverableFunPlaces.exe.config
+C:\Users\gilki\source\repos\Lab2deliverableFunPlaces\Lab2deliverableFunPlaces\bin\Debug\Lab2deliverableFunPlaces.exe
+C:\Users\gilki\source\repos\Lab2deliverableFunPlaces\Lab2deliverableFunPlaces\bin\Debug\Lab2deliverableFunPlaces.pdb
+C:\Users\gilki\source\repos\Lab2deliverableFunPlaces\Lab2deliverableFunPlaces\obj\Debug\Lab2deliverableFunPlaces.csprojAssemblyReference.cache
+C:\Users\gilki\source\repos\Lab2deliverableFunPlaces\Lab2deliverableFunPlaces\obj\Debug\Lab2deliverableFunPlaces.csproj.CoreCompileInputs.cache
+C:\Users\gilki\source\repos\Lab2deliverableFunPlaces\Lab2deliverableFunPlaces\obj\Debug\Lab2deliverableFunPlaces.exe
+C:\Users\gilki\source\repos\Lab2deliverableFunPlaces\Lab2deliverableFunPlaces\obj\Debug\Lab2deliverableFunPlaces.pdb
